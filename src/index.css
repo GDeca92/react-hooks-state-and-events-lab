@@ -1,8 +1,8 @@
 :root {
-  --magenta: rgb(210, 51, 210);
+  --magenta: #d233d2;
   --cyan: rgb(98, 230, 230);
-  --yellow: rgb(237, 237, 32);
-  --font-color: rgb(33, 33, 33);
+  --yellow: #eded20;
+  --font-color: #212121;
   --font-color-light: rgb(155, 155, 155);
   --background: rgb(255, 255, 255);
   --background--light: rgb(230, 230, 230);
